@@ -83,7 +83,7 @@ link:../applications/processor/image-recognition-processor[Here] is an example s
 Pay close attention to the code that is provided there and the Maven configuration.
 
 If you don't see the need for anything at the function layer and want to write a straight up Spring Cloud Stream application, then that pattern is supported as well.
-Here is an link:../applications/processor/bridge-processor[example] that doest exactly that.
+Here is an link:../applications/processor/bridge-processor[example] that does exactly that.
 
 === Documentation
 

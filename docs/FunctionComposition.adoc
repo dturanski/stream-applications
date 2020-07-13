@@ -1,4 +1,4 @@
-=== Function Composition
+= Function Composition
 
 Spring Cloud Stream includes integration with Spring Cloud Function's function-based programming model that lets the
 business logic of an application be modeled as a `java.util.Supplier`, a `java.util.Function`, and a `java.util.Consumer`,
